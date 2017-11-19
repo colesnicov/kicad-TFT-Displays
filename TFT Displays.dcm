@@ -1,13 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 2.8_tft_240x320
-D 2.8' SPI TFT Display with Touch and SD Card interface
-K SPI TOUCH TFT SD
-$ENDCMP
-#
-$CMP 2.8_tft_240x320_touch_sd_spi
-D 2.8' SPI TFT Display with Touch and SD Card interface
-K SPI TOUCH TFT SD
-$ENDCMP
-#
 #End Doc Library
